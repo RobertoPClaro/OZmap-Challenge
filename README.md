@@ -54,7 +54,7 @@ Uma API RESTful robusta para gerenciamento de regiões geográficas, desenvolvid
 ### 1. Clone o repositório
 ```bash
 git clone git@github.com:RobertoPClaro/OZmap-Challenge.git
-cd ozmap-challenge
+cd OZmap-Challenge
 ```
 
 ### 2. Instale as dependências
